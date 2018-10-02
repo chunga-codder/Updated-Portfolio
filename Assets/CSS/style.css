@@ -38,7 +38,7 @@ body {
   h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #8e3a96;
+    color: #da4d88;
   }
   
   h1 {
@@ -77,7 +77,7 @@ body {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background: #8e3a96;
+    background: #da4d88;
   }
   
   nav {
@@ -100,7 +100,7 @@ body {
   }
   
   nav a:hover {
-    color: #8e3a96;
+    color: #da4d88;
   }
   
     /* For mobile screens: */
@@ -142,13 +142,13 @@ body {
     color: #ccc;
     text-align: center;
     background: #666;
-    border-top: 8px solid #8e3a96;
+    border-top: 8px solid #da4d88;
     height: 50px;
   }
   
   footer a {
     float: right;
-    color: #8e3a96;
+    color: #da4d88;
   }
   
   footer a:hover {
@@ -210,7 +210,7 @@ body {
     line-height: 30px;
     color: #fff;
     text-align: center;
-    background: #8e3a96;
+    background: #da4d88;
     border-bottom: 0;
   }
   
