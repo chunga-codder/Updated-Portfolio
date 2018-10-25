@@ -52,8 +52,3 @@ Update the README for each project you linked to with a description of the probl
 how you solved it, and some information about your technical approach
 Suggested: refactor some of your code from earlier assignments to make them more readable
 
-
-
-
-
-Competitive Design
