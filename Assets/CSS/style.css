@@ -5,8 +5,9 @@ body {
     color: #777;
     background: url("../Images/city.jpg");
     background-size: 100%;
-  
-  
+    background-repeat: no-repeat;
+    position:center; 
+    background-attachment: fixed;
   }
   
   * {
