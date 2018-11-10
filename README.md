@@ -12,10 +12,4 @@ The portfolio will look like the images below:
 <img src="Assets/Images/portoflio_home.PNG">
 
 
-<h3>Portfolio - Project List</h3>
-
-<img src="Assets/Images/portoflio_projects.PNG">
-
-<h3>Contact</h3>
-
 
