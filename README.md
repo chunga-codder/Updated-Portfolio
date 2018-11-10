@@ -11,7 +11,7 @@ The portfolio will look like the images below:
 
 <img src="Assets/Images/portoflio_home.PNG">
 
-<h3>Portfolio</h3>
+<h3>Portfolio - List of Projects</h3>
 
 <img src="Assets/Images/portfolio_projects.PNG">
 
