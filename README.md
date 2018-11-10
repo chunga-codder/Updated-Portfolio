@@ -13,7 +13,7 @@ The portfolio will look like the images below:
 
 <h3>Portfolio</h3>
 
-<img src="Assets/Images/portoflio_projects.PNG">
+<img src="Assets/Images/portfolio_projects.PNG">
 
 <h3>Contact</h3>
 
